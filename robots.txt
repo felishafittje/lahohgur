@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aephangahz.sisheng36.club/sitemap.xml
